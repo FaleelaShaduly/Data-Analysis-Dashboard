@@ -37,6 +37,6 @@ An Executive Power BI dashboard built for the US Furniture Sales organization to
 ## Screenshots 
 - https://github.com/FaleelaShaduly/Data-Analysis-Dashboard/blob/main/Snapshot%20of%20US%20Furniture%20Sales%20Dashboard%201.png
 - https://github.com/FaleelaShaduly/Data-Analysis-Dashboard/blob/main/Snapshot%20of%20US%20Furniture%20Sales%20Dashboard%202.png
-- 
-
+- https://github.com/FaleelaShaduly/Data-Analysis-Dashboard/blob/main/Snapshot%20of%20US%20Furniture%20Sales%20Dashboard%203.png
+  
 
