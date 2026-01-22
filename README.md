@@ -1,4 +1,4 @@
-## US Furniture Sales Dashboard | Power BI Capstone Project
+# US Furniture Sales Dashboard | Power BI Capstone Project
 
 ## Project Overview
 An Executive Power BI dashboard built for the US Furniture Sales organization to deliver a single-pane, data-driven view of revenue, profitability, and operational performance across regions, segments, branches, and product sub-categories. Designed for Executive Insights, Granular Reporting, and Mobile Accessibility, the solution helps leaders act quickly on margin pressure, regional gaps, and product-level opportunities.
