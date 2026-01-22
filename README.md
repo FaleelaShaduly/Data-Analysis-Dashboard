@@ -4,11 +4,11 @@
 An Executive Power BI dashboard built for the US Furniture Sales organization to deliver a single-pane, data-driven view of revenue, profitability, and operational performance across regions, segments, branches, and product sub-categories. Designed for Executive Insights, Granular Reporting, and Mobile Accessibility, the solution helps leaders act quickly on margin pressure, regional gaps, and product-level opportunities.
 
 ## Dashboard Features
-•	Revenue, Products, and Profit Summary for quick executive review.
-•	Sales by City, State, Region, and Segment to compare geographic and customer performance.
-•	Sub-Category Analysis to identify top revenue drivers and loss-making SKUs.
-•	Employee and Branch Performance to support incentives and training.
-•	Mobile-Ready Layout for on-the-go decision making.
+Revenue, Products, and Profit Summary for quick executive review.
+Sales by City, State, Region, and Segment to compare geographic and customer performance.
+Sub-Category Analysis to identify top revenue drivers and loss-making SKUs.
+Employee and Branch Performance to support incentives and training.
+Mobile-Ready Layout for on-the-go decision making.
 
 ## Tools & Technologies
 •	Power BI Desktop – Dashboard creation
