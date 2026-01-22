@@ -34,6 +34,8 @@ An Executive Power BI dashboard built for the US Furniture Sales organization to
 7.	Identify top revenue-efficient sellers and replicate their selling techniques.
 8.	Provide pricing and product-mix training to volume-based sellers.
 
-## Screenshots :
+## Screenshots 
+- https://github.com/FaleelaShaduly/Data-Analysis-Dashboard/blob/main/Snapshot%20of%20US%20Furniture%20Sales%20Dashboard%201.png
+- 
 
 
